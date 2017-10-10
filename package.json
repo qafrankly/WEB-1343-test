@@ -4,7 +4,10 @@
   "affiliates": [
     "wnow"
   ],
-  "propTypes": {},
-  "defaultProps": {},
-  "propChoices": {}
+  "propTypes": {
+  },
+  "defaultProps": {
+  },
+  "propChoices": {
+  }
 }
