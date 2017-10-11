@@ -13,7 +13,7 @@
   },
     "FRN_resourceEndpoints": [
     {
-      "url": "",
+      "url": "http://wnow.dsys1.worldnow.com/?clienttype=json",
       "type": "json"
     }
   ]
