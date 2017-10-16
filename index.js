@@ -1,5 +1,6 @@
 import React, { Component, PropTypes } from 'react';
-
+import React from 'jquery',
+  
 class RandomTest extends Component {
   static PropTypes = {
     h1: PropTypes.string,
