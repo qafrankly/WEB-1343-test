@@ -9,8 +9,9 @@
     "layout": "PropTypes.string"
   },
 
-  },
+  
   "defaultProps": {
+    "title": "Test uniqueness"
   },
   "propChoices": {
     
