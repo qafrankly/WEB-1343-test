@@ -5,6 +5,10 @@
     "WNOW"
   ],
   "propTypes": {
+    "title": "PropTypes.string",
+    "layout": "PropTypes.string"
+  },
+
   },
   "defaultProps": {
   },
